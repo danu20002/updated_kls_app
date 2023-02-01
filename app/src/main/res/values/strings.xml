@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">kls_git</string>
+    <string name="title_activity_mainscreen">mainscreen_activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="openDrawer">open navigation drawer</string>
+    <string name="closeDrawer">close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mission">To train the students to become Quality Engineers with High Standards of Professionalism and Ethics  who  have  Positive  Attitude,  a  Perfect  blend  of  Techno-Managerial  Skills  and  Problem solving ability with an analytical and innovative mindset.</string>
+    <string name="vision">Gogte  Institute  of  Technology  shall  stand  out  as  an  institution  of  excellence  in  technical education and in training  individuals  for outstanding caliber, character coupled with creativity and entrepreneurial skills.</string>
+    <string name="gogteinformation">The Karnatak Law Society\s flagship institution, KLS Gogte Institute of Technology (GIT), was established in 1979. GIT is an Indian autonomous Engineering college located in Belgaum, Karnataka and is affiliated with Visvesvaraya Technological University \n To meet the growing demand for technically-trained workers, being named after industrialist Raosaheb Gogte. It received the Excellent Technical Education Institute in Karnataka award at the August 9, 2014 National Karnataka Education Summit and Awards at Visvesvaraya Technological University in Bangalore.[1]
+
+Indian President Ram Nath Kovind inaugurated the platinum jubilee of Belgaum-based Karnataka Law Society and Raja Lakhmagouda Law College on September 15, 2018, and addressed a gathering at the institute. Karnataka Governor Vajubhai Vala, Chief Justice Dipak Mishra, Chief Minister H. D. Kumaraswamy, Supreme Court Judges Abdul Nazeer, Vineet Saran and Mohan Shantan Goudar, Attorney General K.K. Venugopal, MP Suresh Angadi, Karnataka Law Society president Anant Mandagi, and Chairman M. R. Kulkarni were also present. </string>
+</resources>

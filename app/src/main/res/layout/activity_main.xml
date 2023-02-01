@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#83A7AC"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+  <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/gogte"
+      android:contentDescription="gogte collage welcoming"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WELCOME\n       TO"
+        android:textSize="30sp"
+        android:textColor="#050505"
+        android:textStyle="bold"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:text=""
+    android:textColor="#03A9F4"
+    android:textSize="24sp"
+      android:id="@+id/jnanganga"
+    android:layout_marginTop="30dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:id="@+id/textview"
+        android:text="KLS GOGTE INSTITUE OF TECHNOLOGY BELAGAVI"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="#2196F3"/>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home"
+       android:title="Home"
+       android:icon="@drawable/baseline_home_24"/>
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"/>
+    <group android:checkableBehavior="single">
+    <item android:title="Department">
+        <menu>
+            <item android:id="@+id/ise"
+                android:visible="true"
+                 android:title="ISE"/>
+            <item android:id="@+id/cse"
+                  android:visible="true"
+                android:title="CSE"/>
+            <item android:id="@+id/ec"
+                  android:title="ECE"
+                android:visible="true"/>
+            <item
+                android:id="@+id/eee"
+                android:title="EEE"
+                android:visible="true"/>
+        </menu>
+    </item>
+</group>
+
+</menu>
